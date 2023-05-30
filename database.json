@@ -1,0 +1,8 @@
+{
+    "host": "containers-us-west-165.railway.app",
+    "port": 6546,
+    "user": "postgres",
+    "password": "abhtZtpOoqXvg4EUnyJb",
+    "database": "railway"
+  }
+  
